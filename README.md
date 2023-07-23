@@ -1,4 +1,4 @@
-Sing-Language-Detectionszdf
+Sing-Language-Detection
 =======================
 
 

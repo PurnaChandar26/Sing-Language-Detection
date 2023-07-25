@@ -12,4 +12,4 @@ Features
 
 -   Support for multiple languages: The tool can recognize a wide range of languages, making it suitable for diverse language detection tasks.
 
--   Easy-to-use API: The provided API allows seamless integration of the language detection functionality into your applications, projects, or workflows.
+-   Easy-to-use API: The provided API allows seamless integration of the language detection functionality into your applications, projects, or workflows. 
